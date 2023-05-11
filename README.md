@@ -8,7 +8,7 @@ This Python script traverses a specified directory and its subdirectories, ident
 - Identifies JPEG files by comparing the first four bytes of each file to the JPEG header bytes \xff\xd8\xff\xe0.
 - Computes the SHA-256 hash of each JPEG file.
 - Retrieves the last modified, accessed, and created times of each JPEG file.
-- Generates a CSV report containing the file information.
+- Generates a CSV report containing the files' information.
 
 ## Requirements
 
