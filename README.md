@@ -12,9 +12,8 @@ This Python script traverses a specified directory and its subdirectories, ident
 
 ## Requirements
 
-Python 3.x
-
-pip install hashlib
+- Python 3.x
+- pip install hashlib
 
 ### Executing program
 
