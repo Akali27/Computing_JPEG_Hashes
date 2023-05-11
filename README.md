@@ -15,7 +15,7 @@ This Python script traverses a specified directory and its subdirectories, ident
 - Python 3.x
 - pip install hashlib
 
-### Executing program
+## Executing program
 
 Run from terminal then choose the target directory. The target directory and its subdirectories will be traversed. 
 
